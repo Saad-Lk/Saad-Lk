@@ -1,6 +1,16 @@
 # Hi there 👋, I'm SAAD LAKNIN 😊
 
-I live in Casablanca, Morocco and I'm a Data Scientist.
+## 🧑‍💻 À propos de moi
+
+- 🎓 Titulaire d’un **Master en Data Science & Big Data** (FSBM Casablanca)  
+- 💼 Junior Data Engineer passionné par la création de pipelines de données et les systèmes distribués  
+- 🛠 Domaines d’intérêt :
+  - Big Data (Spark, Hadoop)
+  - Data Engineering (Kafka, Airflow, ETL Pipelines)
+  - Cloud & DevOps (Docker, CI/CD)
+  - Data Analysis & Machine Learning
+- 🎯 Objectif : Concevoir des solutions data fiables, scalables et optimisées.
+
 
 <p align="center">
   <a href="https://twitter.com/TON_TWITTER">
