@@ -9,7 +9,7 @@ Je conçois des solutions d’IA et data concrètes, de la préparation des donn
 ## 🧑‍💻 À propos de moi
 
 - 🎓 **Master en Data Science & Big Data**, FSBM, Université Hassan II, Casablanca
-- 🤖 **Stagiaire Développeur IA & Data** chez DM Technology : fine-tuning d’un modèle de Computer Vision pour la détection automatique de dommages
+- 🤖 **Développeur Servicenow - IA & Data** chez DM Technology : fine-tuning d’un modèle de Computer Vision pour la détection automatique de dommages
 - 🏗️ **Data Engineer & Développeur BI** chez Bitbot : pipelines ETL, data warehouse et cubes OLAP
 - 🎯 Objectif : construire des solutions IA fiables, utiles et maintenables
 
